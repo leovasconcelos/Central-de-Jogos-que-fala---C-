@@ -1,0 +1,17 @@
+1. No menu Jogo, o usuário pode iniciar o jogo, selecionando Jogo-> Novo Jogo
+2. Pontuação inicial será 0 e o tempo será de 90 segundos.
+3. Inicialmente, a menina será mostrado sem qualquer ovelha ou galinha na tela
+4. A menina só pode se mover para cima e para baixo usando as teclas para cima e para baixo do teclado.
+5. A menina não pode ir além das linhas azuis
+6. A cada segundo uma ovelha ou galinha (aleatoriamente) será mostrado na extrema direita da tela no local aleatório dentro dos limites azuis.
+7. Todos os animais estarão se movendo para a esquerda quando o jogo está sendo executado
+8. A menina tem que pegar as ovelhas e evitar a galinha
+9. Se a menina toca as ovelhas a pontuação é incrementado de 10 e as ovelhas desaparecem
+10. Se a menina tocar o frango a pontuação é diminuído em 10 e a galinha desaparece
+11. Uma vez que o tempo tenha terminado todos os animais serão parados e ao longo do jogo será mostrado na tela.
+12. Você pode adicionar nível. O aumenteo do Nível irá aumentar a velocidade dos animais
+
+Existem duas variações do jogo com Urso Branco x Urso Nego e Coelho x Pinguim 
+As regras são as mesmas
+
+Abra o projeto no VS 2010

@@ -1,0 +1,5 @@
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\EllisMIS\bin\Debug\EllisMIS.dll
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\EllisMIS\bin\Debug\EllisMIS.pdb
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\EllisMIS\obj\Debug\EllisMIS.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\EllisMIS\obj\Debug\EllisMIS.dll
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\EllisMIS\obj\Debug\EllisMIS.pdb

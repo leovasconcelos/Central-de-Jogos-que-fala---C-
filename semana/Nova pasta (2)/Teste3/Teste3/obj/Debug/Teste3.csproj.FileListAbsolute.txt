@@ -1,0 +1,9 @@
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\bin\Debug\Teste3.exe.config
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\bin\Debug\Teste3.exe
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\bin\Debug\Teste3.pdb
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\obj\Debug\Teste3.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\obj\Debug\Teste3.Form1.resources
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\obj\Debug\Teste3.Properties.Resources.resources
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\obj\Debug\Teste3.csproj.GenerateResource.Cache
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\obj\Debug\Teste3.exe
+C:\Users\Guilherme França\Documents\Visual Studio 2012\Projects\Semana Científica\Teste3\Teste3\obj\Debug\Teste3.pdb

@@ -1,0 +1,9 @@
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\bin\Debug\tictactoe cs.exe.config
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\bin\Debug\tictactoe cs.exe
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\bin\Debug\tictactoe cs.pdb
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\obj\Debug\tictactoe cs.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\obj\Debug\tictactoe_cs.game.resources
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\obj\Debug\tictactoe_cs.Properties.Resources.resources
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\obj\Debug\tictactoe cs.csproj.GenerateResource.Cache
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\obj\Debug\tictactoe cs.exe
+C:\Users\Antonio\Desktop\Nova pasta (3)\C#\tictactoe cs\obj\Debug\tictactoe cs.pdb

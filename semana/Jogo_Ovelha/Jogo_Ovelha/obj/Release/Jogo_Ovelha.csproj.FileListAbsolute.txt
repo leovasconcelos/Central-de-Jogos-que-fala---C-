@@ -1,0 +1,31 @@
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\bin\Release\Jogo_Ovelha.exe.manifest
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\bin\Release\Jogo_Ovelha.application
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\bin\Release\Jogo_Ovelha.exe
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\bin\Release\Jogo_Ovelha.pdb
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\obj\Release\game.About.resources
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\obj\Release\game.Form1.resources
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\obj\Release\Jogo_Ovelha.Properties.Resources.resources
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\obj\Release\Jogo_Ovelha.csproj.GenerateResource.Cache
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\obj\Release\Jogo_Ovelha.exe.manifest
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\obj\Release\Jogo_Ovelha.application
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\obj\Release\Jogo_Ovelha.exe
+J:\__CSharp_Programas_fontes\sheep_game\Sheep Game\game\obj\Release\Jogo_Ovelha.pdb
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.exe
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.pdb
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\bin\Release\Jogo_Ovelha.exe.manifest
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\bin\Release\Jogo_Ovelha.application
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\bin\Release\Jogo_Ovelha.exe
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\bin\Release\Jogo_Ovelha.pdb
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\obj\Release\game.About.resources
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\obj\Release\game.Form1.resources
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.Properties.Resources.resources
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.csproj.GenerateResource.Cache
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.exe.manifest
+J:\__CSharp_Programas_fontes\sheep_game\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.application
+I:\semana\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.exe
+I:\semana\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.pdb
+I:\semana\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.csprojResolveAssemblyReference.cache
+I:\semana\Jogo_Ovelha\Jogo_Ovelha\obj\Release\game.About.resources
+I:\semana\Jogo_Ovelha\Jogo_Ovelha\obj\Release\game.Form1.resources
+I:\semana\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.Properties.Resources.resources
+I:\semana\Jogo_Ovelha\Jogo_Ovelha\obj\Release\Jogo_Ovelha.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\example.wav
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\MicrosoftSpeechToTextExample.exe
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\MicrosoftSpeechToTextExample.pdb
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\EllisMIS.dll
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\bin\Debug\EllisMIS.pdb
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.Form1.resources
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.Properties.Resources.resources
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.csproj.GenerateResource.Cache
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.exe
+C:\Users\Antonio\Desktop\Nova pasta (2)\MicrosoftSpeechToTextExample\MicrosoftSpeechToTextExample\obj\x86\Debug\MicrosoftSpeechToTextExample.pdb

@@ -1,0 +1,35 @@
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\bin\Debug\Bate Papo.exe.config
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate Papo.exe
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate Papo.pdb
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\bin\Debug\Bate Papo.exe
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\bin\Debug\Bate Papo.pdb
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.FormPrincipal.resources
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.Properties.Resources.resources
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Central de Jogos.csproj.GenerateResource.Cache
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Central de Jogos.csprojResolveAssemblyReference.cache
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\bin\Debug\Bate Papo.exe.config
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\obj\Debug\Central de Jogos.csprojResolveAssemblyReference.cache
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.FormPrincipal.resources
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.Properties.Resources.resources
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\obj\Debug\Central de Jogos.csproj.GenerateResource.Cache
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\bin\Debug\Bate Papo.exe
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\bin\Debug\Bate Papo.pdb
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\obj\Debug\Bate Papo.exe
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\obj\Debug\Bate Papo.pdb
+G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.FormSobre.resources
+C:\Users\Guilherme França\Documents\Visual Studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.FormJogoDaVelha.resources
+C:\Users\Guilherme França\Documents\Visual Studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.FormSobre.resources
+C:\Users\Guilherme França\Documents\Visual Studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.Form7Erros.resources
+C:\Users\Guilherme França\Documents\Visual Studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.FormForca.resources
+I:\semana\Nova pasta\Bate Papo\bin\Debug\Bate Papo.exe.config
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Bate Papo.exe
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Bate Papo.pdb
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Central de Jogos.csprojResolveAssemblyReference.cache
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Bate_Papo.Form7Erros.resources
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Bate_Papo.FormForca.resources
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Bate_Papo.FormJogoDaVelha.resources
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Bate_Papo.FormPrincipal.resources
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Central de Jogos.csproj.GenerateResource.Cache
+I:\semana\Nova pasta\Bate Papo\bin\Debug\Bate Papo.exe
+I:\semana\Nova pasta\Bate Papo\bin\Debug\Bate Papo.pdb
+I:\semana\Nova pasta\Bate Papo\obj\Debug\Bate_Papo.Properties.Resources.resources

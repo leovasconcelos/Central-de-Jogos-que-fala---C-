@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Central de Jogos", "Bate Papo\Central de Jogos.csproj", "{19854449-2AA7-488D-93A0-770992EC59AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVeia", "G:\ADS\2° Semestre\LINGUAGEM DE PROGRAMAÇÃO I\C#\Semana Científica\JogoDaVeia\JogoDaVeia\JogoDaVeia.csproj", "{579D1F37-506B-49AF-AD0C-7D8E573BE8B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19854449-2AA7-488D-93A0-770992EC59AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19854449-2AA7-488D-93A0-770992EC59AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19854449-2AA7-488D-93A0-770992EC59AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19854449-2AA7-488D-93A0-770992EC59AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579D1F37-506B-49AF-AD0C-7D8E573BE8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579D1F37-506B-49AF-AD0C-7D8E573BE8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579D1F37-506B-49AF-AD0C-7D8E573BE8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579D1F37-506B-49AF-AD0C-7D8E573BE8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

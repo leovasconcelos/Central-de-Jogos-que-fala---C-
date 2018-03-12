@@ -1,0 +1,42 @@
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\bin\Debug\Reprodutor.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\bin\Debug\Reprodutor.exe
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\bin\Debug\Reprodutor.pdb
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\bin\Debug\NAudio.dll
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\bin\Debug\NAudio.xml
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\obj\Debug\Reprodutor.exe
+c:\users\user\documents\visual studio 2012\Projects\Reprodutor\Reprodutor\obj\Debug\Reprodutor.pdb
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\bin\Debug\Reprodutor.exe.config
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\obj\Debug\Reprodutor.exe
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\obj\Debug\Reprodutor.pdb
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\bin\Debug\Reprodutor.exe
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\bin\Debug\Reprodutor.pdb
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\bin\Debug\NAudio.xml
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csprojResolveAssemblyReference.cache
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Form1.resources
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Properties.Resources.resources
+C:\Users\carlinhos\Desktop\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csproj.GenerateResource.Cache
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\bin\Debug\Reprodutor.exe.config
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.exe
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.pdb
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\bin\Debug\Reprodutor.exe
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\bin\Debug\Reprodutor.pdb
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\bin\Debug\NAudio.xml
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.csprojResolveAssemblyReference.cache
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.Form1.resources
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.Properties.Resources.resources
+C:\Users\IFSP\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.csproj.GenerateResource.Cache
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\bin\Debug\Reprodutor.exe.config
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.exe
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.pdb
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\bin\Debug\Reprodutor.exe
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\bin\Debug\Reprodutor.pdb
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\bin\Debug\NAudio.xml
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.Form1.resources
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.Form2.resources
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.Properties.Resources.resources
+C:\Users\Antonio\Desktop\Reprodutor - Renato\Reprodutor\obj\Debug\Reprodutor.csproj.GenerateResource.Cache

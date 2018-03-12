@@ -1,0 +1,27 @@
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.exe.config
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.exe
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.Form1.resources
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.Properties.Resources.resources
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.csproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.exe
+c:\users\antonio\documents\visual studio 2015\Projects\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.pdb
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.exe.config
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.exe
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.pdb
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.exe
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.pdb
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.Form1.resources
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.Properties.Resources.resources
+C:\Users\Administrador\Desktop\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.csproj.GenerateResource.Cache
+H:\semana\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.exe.config
+H:\semana\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.exe
+H:\semana\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.pdb
+H:\semana\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.exe
+H:\semana\JogoDaVeia\JogoDaVeia\bin\Debug\JogoDaVeia.pdb
+H:\semana\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.csprojResolveAssemblyReference.cache
+H:\semana\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.Form1.resources
+H:\semana\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.Properties.Resources.resources
+H:\semana\JogoDaVeia\JogoDaVeia\obj\Debug\JogoDaVeia.csproj.GenerateResource.Cache

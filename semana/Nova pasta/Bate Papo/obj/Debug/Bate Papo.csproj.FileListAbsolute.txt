@@ -1,0 +1,9 @@
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\bin\Debug\Bate Papo.exe.config
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\bin\Debug\Bate Papo.exe
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\bin\Debug\Bate Papo.pdb
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate Papo.csprojResolveAssemblyReference.cache
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.Properties.Resources.resources
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate Papo.csproj.GenerateResource.Cache
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate Papo.exe
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate Papo.pdb
+c:\users\guilherme frança\documents\visual studio 2015\Projects\Bate Papo\Bate Papo\obj\Debug\Bate_Papo.FormPrincipal.resources
